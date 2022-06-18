@@ -1,0 +1,20 @@
+.cartContainer{
+    width: 5vw;
+    position: absolute;    
+    left: 85%;
+    top: 0;
+    max-width:50px;
+}
+
+
+.itemsNumber{
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    left: 70%;
+    position: relative;
+    top: 1vh;
+}
